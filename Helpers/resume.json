@@ -1,0 +1,122 @@
+{
+    "basics": {
+        "firstName": "Jeremy",
+        "lastName": "Howells",
+        "alias": "Brett",
+        "phone": "(352)-302-7711",
+        "location": {
+            "city": "Jacksonville",
+            "state": "Florida",
+            "country": "USA"
+        },
+        "email": "jeremybhowells@gmail.com"
+    },
+    "experience": [
+        {
+            "company": "Greenshades Software",
+            "location": "Jacksonville, FL",
+            "position": "Cloud Solutions Architect",
+            "startDate": "February 2019",
+            "endDate": "Present",
+            "highlights": [
+                "Principle architect on successful $3M digital transformation from legacy on premise infrastructure to cloud solutions hosted in Azure",
+                "Continually perform TCO and ROI assessments for all production resources, resulting in monthly hosting costs being 10-15% below budget",
+                "Implemented monitoring framework leveraging tools such as Telegraf and Grafana to proactively identify and resolve performance bottlenecks, reducing customer slowdowns by 90%",
+                "Reduced incident response time from hours to minutes through development of custom alerting API delivering near real-time notifications at the team level",
+                "Defined new Infrastructure as Code (IaC) deployment process replacing 100% of manual infrastructure provisioning with version controlled Terraform scripts"
+            ]
+        },
+        {
+            "company": "Greenshades Software",
+            "location": "Jacksonville, FL",
+            "position": "Infrastructure Engineer",
+            "startDate": "November 2017",
+            "endDate": "February 2019",
+            "highlights": [
+                "Created and maintained Windows Server Update Services (WSUS) environment driving application of critical updates from 10 to 90%",
+                "Worked closed with Security Team to ensure 100% Information Technology compliance in SOC Type II Audit",
+                "Replaced aging virtual hosts with state-of-the-art Storage Spaces Direct (S2D) cluster, doubling critical server availability and resilience",
+                "Introduced Dell's out-of-band infrastructure (iDRAC) into production environment reducing downtime by 80%",
+                "Implemented and championed remote administration tools and techniques decreasing incident response times and reducing production server logins"
+            ]
+        },
+        {
+            "company": "Greenshades Software",
+            "location": "Jacksonville, FL",
+            "position": "Lead Systems Administrator",
+            "startDate": "August 2016",
+            "endDate": "November 2017",
+            "highlights": [
+                "Improved existing System Center Configuration Manager (SCCM) environment maintaining 100% workstation compliance",
+                "Secured IT infrastructure by implementing BitLocker and Shielded VMs",
+                "Planned and executed the upgrade from Lync Server 2013 to Skype for Business 2015",
+                "Acted as primary contact for all issues in corporate datacenter co-location",
+                "Developed key performance indicators (KPIs) for internal services to increase overall internal IT performance and accountability"
+            ]
+        },
+        {
+            "company": "Greenshades Software",
+            "location": "Jacksonville, FL",
+            "position": "Systems Administrator",
+            "startDate": "March 2016",
+            "endDate": "August 2016",
+            "highlights": [
+                "Designed and implemented new user-friendly ticketing system decreasing of technician response time and increasing end-user satisfaction from 70% to 95%",
+                "Maintained IT knowledge-base increasing productivity for IT staff",
+                "Bolstered workstation security by implementing Microsoft LAPS, preventing the use of shared admin passwords",
+                "Promoted to Lead Systems Administrator in less than six months of employment"
+            ]
+        },
+        {
+            "company": "University of Florida",
+            "location": "Gainesville, FL",
+            "position": "IT Intermediate",
+            "startDate": "September 2011",
+            "endDate": "March 2016",
+            "highlights": [
+                "Created and implemented a procedure to securely remove and dispose of hard drives containing HIPPA protected data",
+                "Lead server refresh project for the University of Florida Nuclear Training Reactor completing the project 4 weeks before deadline and $25K below budget",
+                "Performed workstation update project with the University of Florida Department of Microbiology increasing work efficiency by 150%",
+                "Over the course of 5 years delivered over $300K of end-of-life assets to community non-profits"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Cloud Platforms",
+            "keywords": [
+                "Microsoft Azure"
+            ]
+        },
+        {
+            "name": "Operating Systems",
+            "keywords": [
+                "Windows Server 2012 - 2019",
+                "CentOS 7"
+            ]
+        },
+        {
+            "name": "Monitor & Alerting",
+            "keywords": [
+                "Azure Monitor",
+                "Grafana",
+                "Splunk",
+                "System Center Operations Manager",
+                "Telegraf"
+            ]
+        },
+        {
+            "name": "Resources & Tools",
+            "keywords": [
+                "Ansible",
+                "Azure DevOps",
+                "Docker",
+                "GIT",
+                "Octopus Deploy",
+                "Packer",
+                "Terraform",
+                "Vagrant"
+            ]
+        }
+    ]
+}
